@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aviiciii
+- 👀 I’m interested in ...learning coding
+- 🌱 I’m currently learning ...C
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...DM me!
