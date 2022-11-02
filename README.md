@@ -1,10 +1,10 @@
 [![@aviiciii's Holopin board](https://holopin.me/aviiciii)](https://holopin.io/@aviiciii)
 
 
-<h1 align="center">Hi 👋, I'm aviiciii</h1>
+<h1 align="center">hi, i'm aviiciii</h1>
 <h3 align="center">Coder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviiciii" alt="aviiciii" /></a> </p>
+
 
 - 🔭 I’m currently working on [mail recreation](https://cs50.harvard.edu/web/2020/projects/3/mail/)
 
