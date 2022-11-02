@@ -1,12 +1,6 @@
 [![@aviiciii's Holopin board](https://holopin.me/aviiciii)](https://holopin.io/@aviiciii)
 
 
-- 👋 Hi, I’m @aviiciii
-- 👀 I’m interested in ...Fullstack web development
-- 🌱 I’m currently learning ...Python and Django
-- 💞️ I’m looking to collaborate on ...Django projects
-- 📫 How to reach me ...DM me!
-
 <h1 align="center">Hi 👋, I'm aviiciii</h1>
 <h3 align="center">Coder</h3>
 
