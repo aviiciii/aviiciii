@@ -5,13 +5,6 @@
 <h3 align="center">aviiciii here</h3>
 
 
-
-- 🔭 I’m currently working on [capstone.](https://cs50.harvard.edu/web/2020/projects/final/capstone/)
-
-- 🌱 I’m currently learning **Django, Javascript and Python**
-
-- 💬 Ask me about **Django**
-
 <h3 align="left">Connect with me: </h3>
 
   - DM me on [Linkedin](https://www.linkedin.com/in/laavesh/)
